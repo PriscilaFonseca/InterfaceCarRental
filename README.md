@@ -1,6 +1,6 @@
-# INTERFACE
+# USING INTERFACES IN C#
 
-This is a Interface project ;)
+This is an example project of using interfaces with C# ;)
 
 ![](header.jpg)
 
